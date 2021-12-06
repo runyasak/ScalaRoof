@@ -1,0 +1,36 @@
+[0m2021.12.06 20:18:21 INFO  Started: Metals version 0.10.9 in workspace '/Users/runyazack/github-projects/ScalaRoof' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.06 20:18:21 INFO  time: initialize in 0.77s[0m
+[0m2021.12.06 20:18:22 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.06 20:18:23 WARN  no build target for: /Users/runyazack/github-projects/ScalaRoof/build.sbt[0m
+[0m2021.12.06 20:18:26 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Dec 06, 2021 8:18:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2021 8:19:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2021 8:19:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.06 20:20:55 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.06 20:20:55 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 34s[0m
+[0m2021.12.06 20:21:00 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 3.89s[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Dec 06, 2021 8:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+[0m2021.12.06 20:21:14 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 1.71s[0m
+[0m2021.12.06 20:21:19 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 1.39s[0m
+Dec 06, 2021 8:21:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.06 20:22:06 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 1.46s[0m
+[0m2021.12.06 20:22:18 INFO  time: evaluated worksheet 'jod.worksheet.sc' in 1.46s[0m
