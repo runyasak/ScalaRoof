@@ -15,5 +15,6 @@ project/plugins/project/
 .cache
 .lib/
 .bloop/
+.metals/
 
 # End of https://www.toptal.com/developers/gitignore/api/sbt
