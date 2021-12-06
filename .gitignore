@@ -14,5 +14,6 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.bloop/
 
 # End of https://www.toptal.com/developers/gitignore/api/sbt
