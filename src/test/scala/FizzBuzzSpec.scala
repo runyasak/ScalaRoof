@@ -9,4 +9,9 @@ class FizzBuzzSpec extends AnyFunSuite {
     var fizzBuzz = new FizzBuzz()
     assert("1" == fizzBuzz.count(1))
   }
+
+  test("it should count 2 when input is 2") {
+    var fizzBuzz = new FizzBuzz()
+    assert("2" == fizzBuzz.count(2))
+  }
 }

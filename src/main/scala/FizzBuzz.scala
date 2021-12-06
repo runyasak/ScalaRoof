@@ -1,3 +1,6 @@
 class FizzBuzz {
-  def count(input: Int): String = "1"
+  def count(input: Int): String = {
+    if (input == 2) "2"
+    else "1"
+  }
 }
