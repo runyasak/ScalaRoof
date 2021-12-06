@@ -15,8 +15,18 @@ class FizzBuzzSpec extends AnyFunSuite {
     assert("2" == fizzBuzz.count(2))
   }
 
-  test("it should count 3 when input is 3") {
+  test("it should count Fizz when input is 3") {
     var fizzBuzz = new FizzBuzz()
-    assert("3" == fizzBuzz.count(3))
+    assert("Fizz" == fizzBuzz.count(3))
+  }
+
+  test("it should count Buzz when input is 5") {
+    var fizzBuzz = new FizzBuzz()
+    assert("Buzz" == fizzBuzz.count(5))
+  }
+
+  test("it should count FizzBuzz when input is 15") {
+    var fizzBuzz = new FizzBuzz()
+    assert("FizzBuzz" == fizzBuzz.count(15))
   }
 }
